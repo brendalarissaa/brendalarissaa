@@ -4,7 +4,8 @@
 🇧🇷 Brazil
 
 Eu construo **sistemas web e mobile de bom desempenho**.
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+Estou focada em **arquitetura, performance, clean code, and soluçoes orientada a negócios.**.
+Buscando primeira experiencia formal para aplicar conhecimentos e contribuir para o crescimento da empresa.
 ---
 
 ## 🚀 Filosofia
