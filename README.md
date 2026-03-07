@@ -3,11 +3,7 @@
 🚀 **Desenvolvedora FullStack | JavaScript, Css, Html, Java & Python**  
 🇧🇷 Brazil
 
-Eu construo **sistemas web e mobile de bom desempenho**.
-Estou focada em **arquitetura, performance, clean code, and soluçoes orientada a negócios.**
-
-**Buscando primeira experiencia formal para aplicar conhecimentos e contribuir para o crescimento da empresa.**
----
+Estudante do ensino técnico.. Experiência prática com HTML, CSS e JavaScript na criação de interfaces interativas e aplicações web simples. Atualmente estudando Node.js, desenvolvimento de APIs, arquitetura REST e conceitos de back-end/front-end, com objetivo em construção de aplicações web completas.
 
 ## 🚀 Filosofia
 
