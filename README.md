@@ -6,7 +6,7 @@
 Eu construo **sistemas web e mobile de bom desempenho**.
 Estou focada em **arquitetura, performance, clean code, and soluçoes orientada a negócios.**
 
-Buscando primeira experiencia formal para aplicar conhecimentos e contribuir para o crescimento da empresa.
+**Buscando primeira experiencia formal para aplicar conhecimentos e contribuir para o crescimento da empresa.**
 ---
 
 ## 🚀 Filosofia
