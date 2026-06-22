@@ -1,4 +1,4 @@
-# Oii 👋, sou Larissa Almeida
+# Oii, sou Brenda Larissa!
 
 🚀 **Desenvolvedora FullStack | JavaScript, Css, Html, Java & Python**  
 🇧🇷 Brazil
